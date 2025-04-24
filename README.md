@@ -89,7 +89,7 @@ shap.summary_plot(shap_values[0], X_sample, feature_names=features)
 ## 🧭 8. Full Architecture Diagram
 ![image](https://github.com/user-attachments/assets/08d65851-862d-49ad-b7ce-a42c3c6136fa)
 
-![IDS Framework Diagram](A_diagram_in_a_research_document_titled_"2._IDS_Fr.png)
+[IDS Framework Diagram
 
 ---
 
